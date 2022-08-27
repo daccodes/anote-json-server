@@ -1,0 +1,252 @@
+{
+  "notes": [
+    {
+      "id": 2,
+      "title": "Note 2",
+      "path": "/note",
+      "author": "",
+      "content": "bomba c",
+      "body": {
+        "blocks": [
+          {
+            "key": "9mbll",
+            "text": "Note 2",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+              {
+                "offset": 0,
+                "length": 6,
+                "style": "titolo"
+              }
+            ],
+            "entityRanges": [],
+            "data": {}
+          },
+          {
+            "key": "cg0um",
+            "text": "bomba c",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+              {
+                "offset": 0,
+                "length": 7,
+                "style": "titolo"
+              },
+              {
+                "offset": 0,
+                "length": 7,
+                "style": "corpo"
+              }
+            ],
+            "entityRanges": [],
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "time": "27/8/2022"
+    },
+    {
+      "id": 3,
+      "title": "Titolo spesa",
+      "path": "/spesa/secco",
+      "author": "",
+      "content": "lista",
+      "body": {
+        "blocks": [
+          {
+            "key": "8lljq",
+            "text": "Titolo spesa",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {}
+          },
+          {
+            "key": "93eob",
+            "text": "lista",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+              {
+                "offset": 0,
+                "length": 5,
+                "style": "sottointestazione"
+              }
+            ],
+            "entityRanges": [],
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "time": "27/8/2022"
+    },
+    {
+      "id": 4,
+      "title": "Titolo spesa",
+      "path": "/spesa/secco",
+      "author": "",
+      "content": "lista",
+      "body": {
+        "blocks": [
+          {
+            "key": "8lljq",
+            "text": "Titolo spesa",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+              {
+                "offset": 0,
+                "length": 12,
+                "style": "titolo"
+              }
+            ],
+            "entityRanges": [],
+            "data": {}
+          },
+          {
+            "key": "93eob",
+            "text": "lista",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+              {
+                "offset": 0,
+                "length": 5,
+                "style": "sottointestazione"
+              }
+            ],
+            "entityRanges": [],
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "time": "27/8/2022"
+    }
+  ],
+  "folders": [
+    {
+      "id": 1,
+      "name": "Note",
+      "path": "/note"
+    },
+    {
+      "id": 2,
+      "name": "Sviluppo",
+      "path": "/sviluppo",
+      "folders": [
+        {
+          "id": 15,
+          "name": "test6",
+          "path": "/sviluppo/test6"
+        },
+        {
+          "id": 13,
+          "name": "test7",
+          "path": "/sviluppo/test7"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Spesa",
+      "path": "/spesa",
+      "folders": [
+        {
+          "id": 7,
+          "name": "Secco",
+          "path": "/spesa/secco"
+        },
+        {
+          "id": 8,
+          "name": "Carne",
+          "path": "/spesa/carne"
+        },
+        {
+          "id": 9,
+          "name": "Pesce",
+          "path": "/spesa/pesce"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "pippo",
+      "path": "/pippo"
+    },
+    {
+      "id": 5,
+      "name": "dario",
+      "path": "/dario",
+      "folders": [
+        {
+          "id": 14,
+          "name": "test8",
+          "path": "/dario/test8"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "test1",
+      "path": "/test1"
+    },
+    {
+      "id": 12,
+      "name": "test3",
+      "path": "/test3",
+      "folders": [
+        {
+          "id": 15,
+          "name": "topo",
+          "path": "/test3/topo"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "test5",
+      "path": "/test5",
+      "folders": [
+        {
+          "id": 16,
+          "name": "you",
+          "path": "/test5/you"
+        },
+        {
+          "id": 18,
+          "name": "tuo",
+          "path": "/test5/tuo"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "test8",
+      "path": "/test8"
+    },
+    {
+      "id": 19,
+      "name": "mimimi",
+      "path": "/mimimi",
+      "folders": [
+        {
+          "id": 20,
+          "name": "chiara",
+          "path": "/mimimi/chiara"
+        }
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Dario Chiapperini"
+    }
+  ]
+}
